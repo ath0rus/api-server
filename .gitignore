@@ -1,0 +1,8 @@
+# Files to be ignored
+*.txt
+
+# Folders to be ignored
+test
+
+# Files to be allowed
+!requirements.txt
